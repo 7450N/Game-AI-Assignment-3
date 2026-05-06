@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1164546b61c9f4196633f70d62af5e, type: 3}
+  m_Name: CreatureData
+  m_EditorClassIdentifier: 
+  playerDetectionRange: 20
+  fieldOfView: 120
+  attackRange: 2
+  moveSpeed: 0.5
+  chaseSpeed: 4
+  jumpHeight: 2
+  jumpDuration: 2
+  throwForce: 10
+  creatureLungeRange: 5
+  creatureAttackRange: 2
+  jumpAttackDamage: 20
+  normalAttackDamage: 10
